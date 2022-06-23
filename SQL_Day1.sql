@@ -1,8 +1,6 @@
 use AdventureWorks2019
 GO
 
-
-
 --1. Write a query that retrieves the columns ProductID, Name, Color and ListPrice from the Production.Product table, with no filter. 
 
 select p.ProductID, p.Name,p.Color, p.ListPrice
@@ -70,7 +68,7 @@ where  p.Color in ('Black','Blue')
 
 --9. Write a query to get a result set on products that begins
 --with the letter S. 
-select p.name
+select *
 from Production.Product as p
 where  p.Name like 'S%'
 
