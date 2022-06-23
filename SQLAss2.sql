@@ -1,18 +1,20 @@
-
 use AdventureWorks2019
 GO
+--SELECT statement: identify which columns we want to retrieve
 
+--1. SELECT all columns and rows
 
 --1. Write a query that lists the country and province names from person. CountryRegion and person. StateProvince tables. Join them and produce a result set similar to the
 --following.
 
-
+select 'Country '+ c.CountryRegionCode + '    Province ' + s.StateProvinceCode 
+from Person.StateProvince as s join Person.CountryRegion as c
+on s.CountryRegionCode = c.CountryRegionCode
 
 
  --   Country                        Province
 
-select *
-from Production.Product
+
 
 
 --2. Write a query that lists the country and province names from person. CountryRegion and person. StateProvince tables and list the countries filter them by Germany and Canada.
@@ -22,18 +24,24 @@ from Production.Product
 
 
   --  Country                        Province
+select 'Country '+ c.CountryRegionCode + '    Province ' + s.StateProvinceCode 
+from Person.StateProvince as s join Person.CountryRegion as c
+on s.CountryRegionCode = c.CountryRegionCode 
+where c.name in ('Germany', 'Canada')
 
-
-
+GO
 
  --Using Northwind Database: (Use aliases for all the Joins)
-
-
+use Northwind
+GO
 
 
 --3. List all Products that has been sold at least once in last 25 years.
 
-
+select DISTINCT p.ProductID, p.ProductName
+from Products p JOIN [Order Details] od
+ON p.ProductID = od.ProductID JOIN Orders o ON o.OrderID = od.OrderID 
+where OrderDate > '1997-06-22'
 
 
 --4. List top 5 locations (Zip Code) where the products sold most in last 25 years.
@@ -42,13 +50,18 @@ from Production.Product
 
 
 --5. List all city names and number of customers in that city.     
+select City, Count(City) NumOfCusts 
+from Customers group by City
 
 
 
 
 --6. List city names which have more than 2 customers, and number of customers in that city
 
-
+select City, Count(City) NumOfCusts 
+from Customers 
+group by City 
+having count(City) >2
 
 
 --7. Display the names of all customers  along with the  count of products they bought
