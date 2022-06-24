@@ -1,7 +1,7 @@
 use AdventureWorks2019
 GO
 
---1. Write a query that retrieves the columns ProductID, Name, Color and ListPrice from the Production.Product table, with no filter. 
+--1. Write a query that retrieves the columns ProductID, Name, Color and ListPrice from the Production.Product table, with no filter.  
 
 select p.ProductID, p.Name,p.Color, p.ListPrice
 from Production.Product as p
