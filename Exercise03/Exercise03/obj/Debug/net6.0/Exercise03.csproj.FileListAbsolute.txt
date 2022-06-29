@@ -1,0 +1,15 @@
+D:\Antra_assignment\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.exe
+D:\Antra_assignment\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.deps.json
+D:\Antra_assignment\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.runtimeconfig.json
+D:\Antra_assignment\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.dll
+D:\Antra_assignment\Exercise03\Exercise03\bin\Debug\net6.0\Exercise03.pdb
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.csproj.AssemblyReference.cache
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfoInputs.cache
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.AssemblyInfo.cs
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.csproj.CoreCompileInputs.cache
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.dll
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\refint\Exercise03.dll
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.pdb
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\Exercise03.genruntimeconfig.cache
+D:\Antra_assignment\Exercise03\Exercise03\obj\Debug\net6.0\ref\Exercise03.dll
