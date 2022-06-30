@@ -1,0 +1,15 @@
+D:\Antra_assignment\PracticeArrays\PracticeArrays\bin\Debug\net6.0\PracticeArrays.exe
+D:\Antra_assignment\PracticeArrays\PracticeArrays\bin\Debug\net6.0\PracticeArrays.deps.json
+D:\Antra_assignment\PracticeArrays\PracticeArrays\bin\Debug\net6.0\PracticeArrays.runtimeconfig.json
+D:\Antra_assignment\PracticeArrays\PracticeArrays\bin\Debug\net6.0\PracticeArrays.dll
+D:\Antra_assignment\PracticeArrays\PracticeArrays\bin\Debug\net6.0\PracticeArrays.pdb
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.csproj.AssemblyReference.cache
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.AssemblyInfoInputs.cache
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.AssemblyInfo.cs
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.csproj.CoreCompileInputs.cache
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.dll
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\refint\PracticeArrays.dll
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.pdb
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\PracticeArrays.genruntimeconfig.cache
+D:\Antra_assignment\PracticeArrays\PracticeArrays\obj\Debug\net6.0\ref\PracticeArrays.dll
