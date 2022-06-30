@@ -1,0 +1,15 @@
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\bin\Debug\net6.0\02UnderstaningTypes.exe
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\bin\Debug\net6.0\02UnderstaningTypes.deps.json
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\bin\Debug\net6.0\02UnderstaningTypes.runtimeconfig.json
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\bin\Debug\net6.0\02UnderstaningTypes.dll
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\bin\Debug\net6.0\02UnderstaningTypes.pdb
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.csproj.AssemblyReference.cache
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.AssemblyInfoInputs.cache
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.AssemblyInfo.cs
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.csproj.CoreCompileInputs.cache
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.dll
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\refint\02UnderstaningTypes.dll
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.pdb
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\02UnderstaningTypes.genruntimeconfig.cache
+C:\Users\evol5\OneDrive\文件\GitHub\Antra\02UnderstaningTypes\02UnderstaningTypes\obj\Debug\net6.0\ref\02UnderstaningTypes.dll

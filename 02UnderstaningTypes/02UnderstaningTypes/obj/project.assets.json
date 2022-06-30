@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Antra_assignment\\02UnderstaningTypes\\02UnderstaningTypes\\02UnderstaningTypes.csproj",
+      "projectUniqueName": "C:\\Users\\evol5\\OneDrive\\文件\\GitHub\\Antra\\02UnderstaningTypes\\02UnderstaningTypes\\02UnderstaningTypes.csproj",
       "projectName": "02UnderstaningTypes",
-      "projectPath": "D:\\Antra_assignment\\02UnderstaningTypes\\02UnderstaningTypes\\02UnderstaningTypes.csproj",
+      "projectPath": "C:\\Users\\evol5\\OneDrive\\文件\\GitHub\\Antra\\02UnderstaningTypes\\02UnderstaningTypes\\02UnderstaningTypes.csproj",
       "packagesPath": "C:\\Users\\evol5\\.nuget\\packages\\",
-      "outputPath": "D:\\Antra_assignment\\02UnderstaningTypes\\02UnderstaningTypes\\obj\\",
+      "outputPath": "C:\\Users\\evol5\\OneDrive\\文件\\GitHub\\Antra\\02UnderstaningTypes\\02UnderstaningTypes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evol5\\AppData\\Roaming\\NuGet\\NuGet.Config",
