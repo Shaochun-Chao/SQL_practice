@@ -5,13 +5,7 @@
         public static void Main(string[] args)
         {
 
-
-            //int[] numbers = GenerateNumbers(10); 
-            //Reverse(numbers); 
-            //PrintNumbers(numbers);
-
-
-            Fibonacci(10);
+            Fibonacci(20);
         }
 
         public static int[] GenerateNumbers(int len )
@@ -39,10 +33,10 @@
         public static void PrintNumbers(int[] arr)
         {
             Console.WriteLine();
-            Console.Write($"Number: ");
+            Console.Write($"Number:");
             foreach (int i in arr)
             {
-                Console.Write($"{i} ");
+                Console.Write($" {i}");
             }
         }
 

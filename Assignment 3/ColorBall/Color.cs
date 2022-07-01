@@ -27,9 +27,9 @@ namespace ColorBall
 
         public int grayscale(int r, int g, int b)
         {
-            int gvalue = (int)(r + g + b)/3;
+            int g = (int)(r + g + b)/3;
 
-            return gvalue;
+            return g;
         }
 
     }
