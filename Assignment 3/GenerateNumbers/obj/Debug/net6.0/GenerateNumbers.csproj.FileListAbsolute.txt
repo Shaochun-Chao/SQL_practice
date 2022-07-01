@@ -1,0 +1,15 @@
+D:\Games\c#\ConsoleApp1\GenerateNumbers\bin\Debug\net6.0\GenerateNumbers.exe
+D:\Games\c#\ConsoleApp1\GenerateNumbers\bin\Debug\net6.0\GenerateNumbers.deps.json
+D:\Games\c#\ConsoleApp1\GenerateNumbers\bin\Debug\net6.0\GenerateNumbers.runtimeconfig.json
+D:\Games\c#\ConsoleApp1\GenerateNumbers\bin\Debug\net6.0\GenerateNumbers.dll
+D:\Games\c#\ConsoleApp1\GenerateNumbers\bin\Debug\net6.0\GenerateNumbers.pdb
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.csproj.AssemblyReference.cache
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.AssemblyInfoInputs.cache
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.AssemblyInfo.cs
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.csproj.CoreCompileInputs.cache
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.dll
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\refint\GenerateNumbers.dll
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.pdb
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\GenerateNumbers.genruntimeconfig.cache
+D:\Games\c#\ConsoleApp1\GenerateNumbers\obj\Debug\net6.0\ref\GenerateNumbers.dll

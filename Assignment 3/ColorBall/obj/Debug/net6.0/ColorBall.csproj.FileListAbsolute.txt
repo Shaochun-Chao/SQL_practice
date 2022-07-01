@@ -1,0 +1,15 @@
+D:\Games\c#\ConsoleApp1\ColorBall\bin\Debug\net6.0\ColorBall.exe
+D:\Games\c#\ConsoleApp1\ColorBall\bin\Debug\net6.0\ColorBall.deps.json
+D:\Games\c#\ConsoleApp1\ColorBall\bin\Debug\net6.0\ColorBall.runtimeconfig.json
+D:\Games\c#\ConsoleApp1\ColorBall\bin\Debug\net6.0\ColorBall.dll
+D:\Games\c#\ConsoleApp1\ColorBall\bin\Debug\net6.0\ColorBall.pdb
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.csproj.AssemblyReference.cache
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.AssemblyInfoInputs.cache
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.AssemblyInfo.cs
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.csproj.CoreCompileInputs.cache
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.dll
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\refint\ColorBall.dll
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.pdb
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ColorBall.genruntimeconfig.cache
+D:\Games\c#\ConsoleApp1\ColorBall\obj\Debug\net6.0\ref\ColorBall.dll

@@ -1,0 +1,15 @@
+D:\Games\c#\ConsoleApp1\BuildOOP\bin\Debug\net6.0\BuildOOP.exe
+D:\Games\c#\ConsoleApp1\BuildOOP\bin\Debug\net6.0\BuildOOP.deps.json
+D:\Games\c#\ConsoleApp1\BuildOOP\bin\Debug\net6.0\BuildOOP.runtimeconfig.json
+D:\Games\c#\ConsoleApp1\BuildOOP\bin\Debug\net6.0\BuildOOP.dll
+D:\Games\c#\ConsoleApp1\BuildOOP\bin\Debug\net6.0\BuildOOP.pdb
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.csproj.AssemblyReference.cache
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.AssemblyInfoInputs.cache
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.AssemblyInfo.cs
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.csproj.CoreCompileInputs.cache
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.dll
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\refint\BuildOOP.dll
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.pdb
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\BuildOOP.genruntimeconfig.cache
+D:\Games\c#\ConsoleApp1\BuildOOP\obj\Debug\net6.0\ref\BuildOOP.dll
